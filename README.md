@@ -1,7 +1,5 @@
 # ApiPlaneta
 
-##
-
 Trabalho de PAM - API
 
 Dupla: Eduardo Andreolli e Felipe Sene.
